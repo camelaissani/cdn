@@ -1,0 +1,164 @@
+{
+  "name": "Camel Aissani",
+  "pictureUrl": "https://camelaissani.github.io/cdn/camel/me.jpg",
+  "pictureSizePx": 254,
+  "title": "Software Development Enthusiast",
+  "job": "Sr Mgr, Software Development",
+  "email": "rfYYevirpegaunZZinassiaYYlemac",
+  "location": "Paris, France",
+  "cvUrl": "https://camelaissani.github.io/cdn/camel/resume.pdf",
+  "linkedInUrl": "https://www.linkedin.com/in/caissani",
+  "twitterUrl": "https://twitter.com/camelaissani",
+  "githubUrl": "https://github.com/camelaissani",
+  "web3FormsToken": "${{secrets.WEB3_FORMS_TOKEN}}",
+  "values": [
+    {
+      "name": "Curiosity",
+      "logo": "icofont-binoculars"
+    },
+    {
+      "name": "Passionate",
+      "logo": "icofont-fire-alt"
+    },
+    {
+      "name": "Collaborative",
+      "logo": "icofont-ui-social-link"
+    },
+    {
+      "name": "Playful",
+      "logo": "icofont-game-pad"
+    }
+  ],
+  "codeSkills": [
+    { "technology": "Javascript", "level": "expert" },
+    { "technology": "Java", "level": "expert" },
+    { "technology": "CSS", "level": "advanced" },
+    { "technology": "HTML", "level": "advanced" },
+    { "technology": "Python", "level": "advanced" },
+    { "technology": "C++", "level": "intermediate" },
+    { "technology": "Typescript", "level": "novice" }
+  ],
+  "frameworkLibrarySkills": [
+    { "technology": "React", "level": "expert" },
+    { "technology": "Next", "level": "advanced" },
+    { "technology": "Docker", "level": "advanced" },
+    { "technology": "Meteor", "level": "intermediate" },
+    { "technology": "Spotify Luigi", "level": "intermediate" },
+    { "technology": "Jenkins", "level": "intermediate" },
+    { "technology": "CircleCI", "level": "novice" }
+  ],
+  "experience": [
+    {
+      "job": "Sr Mgr, Software Development",
+      "company": {
+        "name": "Adobe",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/Adobe.png",
+        "logoSizePx": 64
+      },
+      "timeSpan": "2019 - Present",
+      "description": "Run the web team of 8 developers who deliver the Journey application. I collaborate with different teams across the globe (US, India and France) to ease and to ensure the deliveries of the product features. I support my team to follow the best practices like writing technical specs, writing tests (unit tests/e2e tests), doing code reviews."
+    },
+    {
+      "job": "Software Architect",
+      "company": {
+        "name": "Adobe",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/Adobe.png",
+        "logoSizePx": 64
+      },
+      "timeSpan": "2018 - 2019",
+      "description": "Drove and rewrote the Journey web application in React. With the team, we redefined the architecture to get a more robust and flexible product. We successfully delivered the new application without any downtime in production."
+    },
+    {
+      "job": "Software Expert Developer",
+      "company": {
+        "name": "SAP",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/SAP.png",
+        "logoSizePx": 96
+      },
+      "timeSpan": "2012 - 2018",
+      "description": "Created a CI/CD service for SAP developers. I made many technical proposals to enhance our application according to the business challenges. I wrote Docker images, Python packages, Jenkins pipelines for piloting build tools like maven, npm and pip. I presented and synchronized our developments with our worldwide team (Germany, Bulgaria, Canada, India, Singapore)."
+    },
+    {
+      "job": "Lead Software Developer",
+      "company": {
+        "name": "MISYS",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/MISYS.png",
+        "logoSizePx": 64
+      },
+      "timeSpan": "2010 - 2012",
+      "description": "Maintained and enhanced a Risk Management application for financial market (K+TP). I improved the general performance of the product written in Java and C++. I participated in rewriting the back office web application in Flex 4."
+    },
+    {
+      "job": "Lead Software Developer",
+      "company": {
+        "name": "Bull",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/Bull.png",
+        "logoSizePx": 80
+      },
+      "timeSpan": "2008 - 2010",
+      "description": "Worked on a Combat Management System for warships. I ran a team of 10 developers to create a Java engine to manage the data flow of warship sensors. I created a Java Swing user interface to emulate warship instruments and sailors."
+    },
+    {
+      "job": "Senior Software Developer",
+      "company": {
+        "name": "Business Objects",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/BusinessObjects.png",
+        "logoSizePx": 112
+      },
+      "timeSpan": "1998 - 2008",
+      "description": "Created many Java Swing user interfaces for the Business Intelligence Platform. I wrote some C++ wrappers on top of servers to ensure communication between front-end and back-end."
+    }
+  ],
+  "eductation": [
+    {
+      "school": "Université d'Évry - France",
+      "degree": "Master's Degree, Computer science and electronics Engineering",
+      "timeSpan": "1995 - 1998"
+    },
+    {
+      "school": "IUT d'Orsay - France",
+      "degree": "Bachelor's Degree, Physical Sciences",
+      "timeSpan": "1993 - 1995"
+    }
+  ],
+  "githubRepos": [
+    {
+      "endpoint": "https://api.github.com/users/microrealestate/repos",
+      "highlights": ["microrealestate"]
+    },
+    {
+      "endpoint": "https://api.github.com/users/camelaissani/repos",
+      "highlights": [
+        "loca",
+        "markdown-it-include",
+        "frontexpress",
+        "frontexpress-path-to-regexp",
+        "rollup-plugin-closure-compiler-js",
+        "penpusher",
+        "login-control"
+      ]
+    }
+  ],
+  "opensourceContributions": [
+    {
+      "title": "Hackathon - Brio",
+      "description": "Displaying cards for easily learning vocabulary, languages and more.",
+      "url": "https://devpost.com/software/brio"
+    },
+    {
+      "title": "paris.meteor.com",
+      "description": "Web site to promote the MeteorJS meetup.",
+      "url": "https://github.com/camelaissani/meteor-france"
+    },
+    {
+      "title": "Mozilla Bugs Squashing Party on Firefox OS",
+      "description": "Fixed some bugs on the Mozilla’s mobile operating system Firefox OS. I worked on Gaia the user interface application layer.",
+      "url": "https://mozilla.github.io/reps-archive/e/paris-bugzilla-squashing-party/index.html"
+    },
+    {
+      "title": "Autoform",
+      "description": "AutoForm is a Meteor package that adds UI components and helpers to easily create, insert, update and validate forms.",
+      "url": "https://github.com/camelaissani/meteor-autoform"
+    }
+  ]
+}
