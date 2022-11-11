@@ -10,7 +10,6 @@
   "linkedInUrl": "https://www.linkedin.com/in/caissani",
   "twitterUrl": "https://twitter.com/camelaissani",
   "githubUrl": "https://github.com/camelaissani",
-  "web3FormsToken": "${{secrets.WEB3_FORMS_TOKEN}}",
   "values": [
     {
       "name": "Curiosity",
