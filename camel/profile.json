@@ -134,7 +134,8 @@
         "frontexpress-path-to-regexp",
         "rollup-plugin-closure-compiler-js",
         "penpusher",
-        "login-control"
+        "login-control",
+        "ProWebsite"
       ]
     }
   ],
