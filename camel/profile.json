@@ -3,7 +3,8 @@
   "pictureUrl": "https://camelaissani.github.io/cdn/camel/me.jpg",
   "pictureSizePx": 254,
   "title": "Software Development Enthusiast",
-  "job": "Sr Mgr, Software Development",
+  "slogan": "Building the future, one line of code at a time",
+  "job": "Staff Software Engineer",
   "email": "mocYYliamgZZinassiaYYlemac",
   "location": "Paris, France",
   "cvUrl": "https://camelaissani.github.io/cdn/camel/resume.pdf",
@@ -31,12 +32,12 @@
   ],
   "codeSkills": [
     { "technology": "Javascript", "level": "expert" },
-    { "technology": "Java", "level": "expert" },
+    { "technology": "Java", "level": "advanced" },
     { "technology": "CSS", "level": "advanced" },
     { "technology": "HTML", "level": "advanced" },
     { "technology": "Python", "level": "advanced" },
     { "technology": "C++", "level": "intermediate" },
-    { "technology": "Typescript", "level": "novice" }
+    { "technology": "Typescript", "level": "intermediate" }
   ],
   "frameworkLibrarySkills": [
     { "technology": "React", "level": "expert" },
@@ -49,13 +50,23 @@
   ],
   "experience": [
     {
+      "job": "Staff Software Engineer",
+      "company": {
+        "name": "Adobe",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/Adobe.png",
+        "logoSizePx": 64
+      },
+      "timeSpan": "2024 - Present",
+      "description": "Architected and delivered a next-generation query modeler for the marketing campaign classic platform, significantly enhancing performance and user experience. Contributed to the migration of customers from a legacy platform, helping unblock key transitions and enabling a smooth upgrade. Actively documented decisions, shared technical insights with the team, and led discussions on architectural strategies to drive consensus and maintain high engineering standards."
+    },
+    {
       "job": "Sr Mgr, Software Development",
       "company": {
         "name": "Adobe",
         "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/Adobe.png",
         "logoSizePx": 64
       },
-      "timeSpan": "2019 - Present",
+      "timeSpan": "2019 - 2024",
       "description": "Run the web team of 8 developers who deliver the Journey application. I collaborate with different teams across the globe (US, India and France) to ease and to ensure the deliveries of the product features. I support my team to follow the best practices like writing technical specs, writing tests (unit tests/e2e tests), doing code reviews."
     },
     {
