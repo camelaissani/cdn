@@ -3,14 +3,14 @@
   "pictureUrl": "https://camelaissani.github.io/cdn/camel/me.jpg",
   "pictureSizePx": 254,
   "title": "Software Development Enthusiast",
-  "job": "Sr Mgr, Software Development",
+  "slogan": "Building the future, one line of code at a time",
+  "job": "Staff Software Engineer",
   "email": "mocYYliamgZZinassiaYYlemac",
   "location": "Paris, France",
   "cvUrl": "https://camelaissani.github.io/cdn/camel/resume.pdf",
   "linkedInUrl": "https://www.linkedin.com/in/caissani",
-  "twitterUrl": "https://twitter.com/camelaissani",
   "githubUrl": "https://github.com/camelaissani",
-  "intro": "Hello! My name is Camel and I am passionate about computer technologies since I was twelve years old. Now I have over ten years of experience and my passion is still the same. Throughout my journey in different software companies, I have always been interested in learning new technologies and languages. I specialized in web application development. I enjoy creating websites that are easy to use, effective and useful for end users. Teamwork is essential and part of my motivation in my daily work. I like to federate my teammates around ideas and roll out brilliant features to customers. Now that I have aroused your curiosity, do not hesitate to browse my website and contact me to discuss!",
+  "intro": "https://camelaissani.github.io/cdn/camel/intro.md",
   "values": [
     {
       "name": "Curiosity",
@@ -31,23 +31,34 @@
   ],
   "codeSkills": [
     { "technology": "Javascript", "level": "expert" },
-    { "technology": "Java", "level": "expert" },
+    { "technology": "Typescript", "level": "advanced" },
+    { "technology": "Tailwindcss", "level": "advanced" },
     { "technology": "CSS", "level": "advanced" },
     { "technology": "HTML", "level": "advanced" },
     { "technology": "Python", "level": "advanced" },
-    { "technology": "C++", "level": "intermediate" },
-    { "technology": "Typescript", "level": "novice" }
+    { "technology": "Java", "level": "intermediate" },
+    { "technology": "C++", "level": "intermediate" }
   ],
   "frameworkLibrarySkills": [
     { "technology": "React", "level": "expert" },
     { "technology": "Next", "level": "advanced" },
-    { "technology": "Docker", "level": "advanced" },
     { "technology": "Meteor", "level": "intermediate" },
+    { "technology": "Docker", "level": "advanced" },
     { "technology": "Spotify Luigi", "level": "intermediate" },
     { "technology": "Jenkins", "level": "intermediate" },
     { "technology": "CircleCI", "level": "novice" }
   ],
   "experience": [
+    {
+      "job": "Staff Software Engineer",
+      "company": {
+        "name": "Adobe",
+        "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/Adobe.png",
+        "logoSizePx": 64
+      },
+      "timeSpan": "2024 - Present",
+      "description": "Architected and delivered a next-generation query modeler for the marketing campaign classic platform, significantly enhancing performance and user experience. Contributed to the migration of customers from a legacy platform, helping unblock key transitions and enabling a smooth upgrade. Actively documented decisions, shared technical insights with the team, and led discussions on architectural strategies to drive consensus and maintain high engineering standards."
+    },
     {
       "job": "Sr Mgr, Software Development",
       "company": {
@@ -55,7 +66,7 @@
         "logoUrl": "https://camelaissani.github.io/cdn/camel/companies/Adobe.png",
         "logoSizePx": 64
       },
-      "timeSpan": "2019 - Present",
+      "timeSpan": "2019 - 2024",
       "description": "Run the web team of 8 developers who deliver the Journey application. I collaborate with different teams across the globe (US, India and France) to ease and to ensure the deliveries of the product features. I support my team to follow the best practices like writing technical specs, writing tests (unit tests/e2e tests), doing code reviews."
     },
     {
@@ -109,7 +120,7 @@
       "description": "Created many Java Swing user interfaces for the Business Intelligence Platform. I wrote some C++ wrappers on top of servers to ensure communication between front-end and back-end."
     }
   ],
-  "eductation": [
+  "education": [
     {
       "school": "Université d'Évry - France",
       "degree": "Master's Degree, Computer science and electronics Engineering",
@@ -123,19 +134,17 @@
   ],
   "githubRepos": [
     {
-      "endpoint": "https://api.github.com/users/microrealestate/repos",
+      "endpoint": "https://api.github.com/users/microrealestate/repos?per_page=100",
       "highlights": ["microrealestate"]
     },
     {
-      "endpoint": "https://api.github.com/users/camelaissani/repos",
+      "endpoint": "https://api.github.com/users/camelaissani/repos?per_page=100",
       "highlights": [
         "loca",
         "markdown-it-include",
         "frontexpress",
         "frontexpress-path-to-regexp",
         "rollup-plugin-closure-compiler-js",
-        "penpusher",
-        "login-control",
         "ProWebsite"
       ]
     }
